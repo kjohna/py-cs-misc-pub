@@ -1,0 +1,42 @@
+{
+  "0": {
+    "coordinates": "(13,16)",
+    "elevation": 0,
+    "exits": {
+      "n": ["1", 1],
+      "e": ["3", 1]
+    },
+    "terrain": "NORMAL",
+    "title": "A brightly lit room"
+  },
+  "1": {
+    "coordinates": "(13,16)",
+    "elevation": 0,
+    "exits": {
+      "e": ["2", 1],
+      "s": ["0", 10]
+    },
+    "terrain": "NORMAL",
+    "title": "A brightly lit room"
+  },
+  "2": {
+    "coordinates": "(13,16)",
+    "elevation": 0,
+    "exits": {
+      "w": ["1", 1],
+      "s": ["3", 1]
+    },
+    "terrain": "NORMAL",
+    "title": "A brightly lit room"
+  },
+  "3": {
+    "coordinates": "(13,16)",
+    "elevation": 0,
+    "exits": {
+      "w": ["0", 1],
+      "n": ["2", 1]
+    },
+    "terrain": "NORMAL",
+    "title": "A brightly lit room"
+  }
+}

@@ -1,0 +1,8012 @@
+{
+    "0": {
+        "coordinates": "(13,16)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "1",
+                3
+            ],
+            "n": [
+                "4",
+                5
+            ],
+            "s": [
+                "8",
+                1
+            ],
+            "w": [
+                "3",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A brightly lit room"
+    },
+    "1": {
+        "coordinates": "(14,16)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "22",
+                5
+            ],
+            "n": [
+                "7",
+                5
+            ],
+            "s": [
+                "2",
+                2
+            ],
+            "w": [
+                "0",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "Shop"
+    },
+    "10": {
+        "coordinates": "(15,15)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "38",
+                3
+            ],
+            "w": [
+                "2",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "100": {
+        "coordinates": "(8,16)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "92",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "101": {
+        "coordinates": "(15,22)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "91",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "102": {
+        "coordinates": "(13,22)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "64",
+                3
+            ],
+            "n": [
+                "107",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "103": {
+        "coordinates": "(20,19)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "88",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "104": {
+        "coordinates": "(9,14)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "89",
+                1
+            ],
+            "s": [
+                "126",
+                1
+            ],
+            "w": [
+                "105",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "105": {
+        "coordinates": "(8,14)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "104",
+                4
+            ],
+            "n": [
+                "129",
+                5
+            ],
+            "w": [
+                "225",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "106": {
+        "coordinates": "(10,20)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "79",
+                5
+            ],
+            "n": [
+                "161",
+                2
+            ],
+            "w": [
+                "112",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "107": {
+        "coordinates": "(13,23)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "141",
+                2
+            ],
+            "s": [
+                "102",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "108": {
+        "coordinates": "(7,18)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "81",
+                4
+            ],
+            "w": [
+                "167",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "109": {
+        "coordinates": "(19,23)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "136",
+                4
+            ],
+            "s": [
+                "95",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "11": {
+        "coordinates": "(11,16)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "3",
+                1
+            ],
+            "s": [
+                "80",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "110": {
+        "coordinates": "(12,10)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "97",
+                5
+            ],
+            "s": [
+                "118",
+                1
+            ],
+            "w": [
+                "157",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "111": {
+        "coordinates": "(14,23)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "114",
+                5
+            ],
+            "n": [
+                "121",
+                4
+            ],
+            "s": [
+                "64",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "112": {
+        "coordinates": "(9,20)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "106",
+                1
+            ],
+            "n": [
+                "210",
+                3
+            ],
+            "w": [
+                "124",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "113": {
+        "coordinates": "(11,12)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "94",
+                3
+            ],
+            "w": [
+                "145",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "114": {
+        "coordinates": "(15,23)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "120",
+                1
+            ],
+            "w": [
+                "111",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "115": {
+        "coordinates": "(19,16)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "160",
+                1
+            ],
+            "n": [
+                "71",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "116": {
+        "coordinates": "(15,12)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "70",
+                3
+            ],
+            "s": [
+                "159",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "117": {
+        "coordinates": "(16,12)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "170",
+                3
+            ],
+            "n": [
+                "87",
+                4
+            ],
+            "s": [
+                "127",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "118": {
+        "coordinates": "(12,9)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "218",
+                3
+            ],
+            "n": [
+                "110",
+                1
+            ],
+            "w": [
+                "133",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "119": {
+        "coordinates": "(19,15)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "131",
+                2
+            ],
+            "s": [
+                "219",
+                4
+            ],
+            "w": [
+                "49",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "12": {
+        "coordinates": "(15,17)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "18",
+                1
+            ],
+            "n": [
+                "20",
+                5
+            ],
+            "w": [
+                "7",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "120": {
+        "coordinates": "(16,23)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "114",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "121": {
+        "coordinates": "(14,24)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "123",
+                5
+            ],
+            "n": [
+                "148",
+                4
+            ],
+            "s": [
+                "111",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "122": {
+        "coordinates": "(10,13)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "99",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "123": {
+        "coordinates": "(15,24)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "138",
+                5
+            ],
+            "w": [
+                "121",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "124": {
+        "coordinates": "(8,20)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "112",
+                4
+            ],
+            "n": [
+                "174",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "125": {
+        "coordinates": "(21,20)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "238",
+                5
+            ],
+            "s": [
+                "198",
+                1
+            ],
+            "w": [
+                "88",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "126": {
+        "coordinates": "(9,13)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "104",
+                1
+            ],
+            "s": [
+                "135",
+                3
+            ],
+            "w": [
+                "158",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "127": {
+        "coordinates": "(16,11)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "173",
+                1
+            ],
+            "n": [
+                "117",
+                2
+            ],
+            "s": [
+                "212",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "128": {
+        "coordinates": "(7,17)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "92",
+                2
+            ],
+            "s": [
+                "162",
+                3
+            ],
+            "w": [
+                "194",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "129": {
+        "coordinates": "(8,15)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "105",
+                5
+            ],
+            "w": [
+                "190",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "13": {
+        "coordinates": "(13,18)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "9",
+                5
+            ],
+            "n": [
+                "14",
+                3
+            ],
+            "w": [
+                "15",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "130": {
+        "coordinates": "(18,14)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "77",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "131": {
+        "coordinates": "(20,15)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "329",
+                3
+            ],
+            "w": [
+                "119",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "132": {
+        "coordinates": "(17,22)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "172",
+                5
+            ],
+            "s": [
+                "73",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "133": {
+        "coordinates": "(11,9)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "118",
+                1
+            ],
+            "s": [
+                "234",
+                4
+            ],
+            "w": [
+                "151",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "134": {
+        "coordinates": "(13,11)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "65",
+                2
+            ],
+            "s": [
+                "144",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "135": {
+        "coordinates": "(9,12)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "126",
+                3
+            ],
+            "s": [
+                "149",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "136": {
+        "coordinates": "(19,24)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "231",
+                2
+            ],
+            "s": [
+                "109",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "137": {
+        "coordinates": "(8,19)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "81",
+                4
+            ],
+            "w": [
+                "168",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "138": {
+        "coordinates": "(16,24)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "139",
+                5
+            ],
+            "n": [
+                "143",
+                4
+            ],
+            "w": [
+                "123",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "139": {
+        "coordinates": "(17,24)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "176",
+                3
+            ],
+            "n": [
+                "147",
+                3
+            ],
+            "w": [
+                "138",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "14": {
+        "coordinates": "(13,19)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "17",
+                5
+            ],
+            "s": [
+                "13",
+                3
+            ],
+            "w": [
+                "47",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "140": {
+        "coordinates": "(11,22)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "63",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "141": {
+        "coordinates": "(13,24)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "107",
+                2
+            ],
+            "w": [
+                "175",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "142": {
+        "coordinates": "(21,21)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "245",
+                2
+            ],
+            "w": [
+                "90",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "143": {
+        "coordinates": "(16,25)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "138",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "144": {
+        "coordinates": "(13,10)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "134",
+                1
+            ],
+            "s": [
+                "218",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "145": {
+        "coordinates": "(10,12)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "113",
+                4
+            ],
+            "s": [
+                "183",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "146": {
+        "coordinates": "(18,23)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "86",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "147": {
+        "coordinates": "(17,25)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "154",
+                4
+            ],
+            "n": [
+                "152",
+                5
+            ],
+            "s": [
+                "139",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "148": {
+        "coordinates": "(14,25)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "178",
+                5
+            ],
+            "n": [
+                "163",
+                5
+            ],
+            "s": [
+                "121",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "149": {
+        "coordinates": "(9,11)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "135",
+                2
+            ],
+            "s": [
+                "191",
+                2
+            ],
+            "w": [
+                "156",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "15": {
+        "coordinates": "(12,18)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "13",
+                5
+            ],
+            "w": [
+                "19",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "150": {
+        "coordinates": "(20,17)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "251",
+                2
+            ],
+            "w": [
+                "71",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "151": {
+        "coordinates": "(10,9)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "133",
+                1
+            ],
+            "n": [
+                "188",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "152": {
+        "coordinates": "(17,26)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "196",
+                1
+            ],
+            "s": [
+                "147",
+                5
+            ],
+            "w": [
+                "233",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "153": {
+        "coordinates": "(11,11)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "97",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "154": {
+        "coordinates": "(18,25)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "184",
+                1
+            ],
+            "n": [
+                "192",
+                2
+            ],
+            "w": [
+                "147",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "155": {
+        "coordinates": "(12,23)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "82",
+                1
+            ],
+            "w": [
+                "185",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "156": {
+        "coordinates": "(8,11)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "149",
+                1
+            ],
+            "s": [
+                "209",
+                5
+            ],
+            "w": [
+                "177",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "157": {
+        "coordinates": "(11,10)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "110",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "158": {
+        "coordinates": "(8,13)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "126",
+                4
+            ],
+            "s": [
+                "164",
+                4
+            ],
+            "w": [
+                "235",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "159": {
+        "coordinates": "(15,11)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "116",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "16": {
+        "coordinates": "(12,15)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "8",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "160": {
+        "coordinates": "(20,16)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "214",
+                2
+            ],
+            "w": [
+                "115",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "161": {
+        "coordinates": "(10,21)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "166",
+                2
+            ],
+            "s": [
+                "106",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "162": {
+        "coordinates": "(7,16)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "128",
+                3
+            ],
+            "w": [
+                "205",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "163": {
+        "coordinates": "(14,26)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "228",
+                2
+            ],
+            "n": [
+                "257",
+                4
+            ],
+            "s": [
+                "148",
+                5
+            ],
+            "w": [
+                "165",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "164": {
+        "coordinates": "(8,12)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "158",
+                4
+            ],
+            "w": [
+                "180",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "165": {
+        "coordinates": "(13,26)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "163",
+                4
+            ],
+            "n": [
+                "169",
+                3
+            ],
+            "w": [
+                "197",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "166": {
+        "coordinates": "(10,22)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "161",
+                2
+            ],
+            "w": [
+                "208",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "167": {
+        "coordinates": "(6,18)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "108",
+                5
+            ],
+            "w": [
+                "187",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "168": {
+        "coordinates": "(7,19)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "137",
+                1
+            ],
+            "n": [
+                "207",
+                3
+            ],
+            "w": [
+                "171",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "169": {
+        "coordinates": "(13,27)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "385",
+                5
+            ],
+            "s": [
+                "165",
+                3
+            ],
+            "w": [
+                "223",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "17": {
+        "coordinates": "(13,20)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "28",
+                3
+            ],
+            "n": [
+                "33",
+                5
+            ],
+            "s": [
+                "14",
+                5
+            ],
+            "w": [
+                "46",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "170": {
+        "coordinates": "(17,12)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "182",
+                2
+            ],
+            "w": [
+                "117",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "171": {
+        "coordinates": "(6,19)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "168",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "172": {
+        "coordinates": "(17,23)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "132",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "173": {
+        "coordinates": "(17,11)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "202",
+                4
+            ],
+            "w": [
+                "127",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "174": {
+        "coordinates": "(8,21)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "277",
+                1
+            ],
+            "s": [
+                "124",
+                2
+            ],
+            "w": [
+                "221",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "175": {
+        "coordinates": "(12,24)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "141",
+                4
+            ],
+            "n": [
+                "200",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "176": {
+        "coordinates": "(18,24)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "139",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "177": {
+        "coordinates": "(7,11)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "156",
+                1
+            ],
+            "w": [
+                "215",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "178": {
+        "coordinates": "(15,25)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "148",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "179": {
+        "coordinates": "(14,10)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "201",
+                5
+            ],
+            "n": [
+                "96",
+                2
+            ],
+            "s": [
+                "181",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "18": {
+        "coordinates": "(16,17)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "34",
+                4
+            ],
+            "s": [
+                "24",
+                5
+            ],
+            "w": [
+                "12",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "180": {
+        "coordinates": "(7,12)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "164",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "181": {
+        "coordinates": "(14,9)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "179",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "182": {
+        "coordinates": "(17,13)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "211",
+                1
+            ],
+            "s": [
+                "170",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "183": {
+        "coordinates": "(10,11)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "145",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "184": {
+        "exits": {
+            "w": [
+                "154",
+                1
+            ]
+        },
+        "title": "A misty room"
+    },
+    "185": {
+        "coordinates": "(11,23)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "155",
+                4
+            ],
+            "n": [
+                "195",
+                5
+            ],
+            "w": [
+                "292",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "186": {
+        "coordinates": "(20,23)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "262",
+                1
+            ],
+            "s": [
+                "98",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "187": {
+        "coordinates": "(5,18)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "167",
+                2
+            ],
+            "n": [
+                "303",
+                1
+            ],
+            "w": [
+                "301",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "188": {
+        "coordinates": "(10,10)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "151",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "189": {
+        "coordinates": "(20,18)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "275",
+                5
+            ],
+            "w": [
+                "59",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "19": {
+        "coordinates": "(11,18)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "15",
+                3
+            ],
+            "n": [
+                "32",
+                1
+            ],
+            "w": [
+                "40",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "190": {
+        "coordinates": "(7,15)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "129",
+                4
+            ],
+            "w": [
+                "222",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "191": {
+        "coordinates": "(9,10)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "149",
+                2
+            ],
+            "s": [
+                "193",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "192": {
+        "coordinates": "(18,26)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "239",
+                4
+            ],
+            "s": [
+                "154",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "193": {
+        "coordinates": "(9,9)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "191",
+                3
+            ],
+            "s": [
+                "203",
+                1
+            ],
+            "w": [
+                "241",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "194": {
+        "coordinates": "(6,17)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "128",
+                1
+            ],
+            "w": [
+                "227",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "195": {
+        "coordinates": "(11,24)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "185",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "196": {
+        "coordinates": "(17,27)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "224",
+                2
+            ],
+            "n": [
+                "278",
+                5
+            ],
+            "s": [
+                "152",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "197": {
+        "coordinates": "(12,26)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "165",
+                4
+            ],
+            "w": [
+                "199",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "198": {
+        "coordinates": "(21,19)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "270",
+                2
+            ],
+            "n": [
+                "125",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "199": {
+        "coordinates": "(11,26)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "197",
+                4
+            ],
+            "n": [
+                "281",
+                3
+            ],
+            "w": [
+                "318",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "2": {
+        "coordinates": "(14,15)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "10",
+                4
+            ],
+            "n": [
+                "1",
+                2
+            ],
+            "s": [
+                "5",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "20": {
+        "coordinates": "(15,18)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "26",
+                2
+            ],
+            "n": [
+                "31",
+                1
+            ],
+            "s": [
+                "12",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "200": {
+        "coordinates": "(12,25)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "204",
+                5
+            ],
+            "s": [
+                "175",
+                1
+            ],
+            "w": [
+                "328",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "201": {
+        "coordinates": "(15,10)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "206",
+                4
+            ],
+            "w": [
+                "179",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "202": {
+        "coordinates": "(17,10)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "249",
+                5
+            ],
+            "n": [
+                "173",
+                4
+            ],
+            "s": [
+                "267",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "203": {
+        "coordinates": "(9,8)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "193",
+                1
+            ],
+            "s": [
+                "269",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "204": {
+        "coordinates": "(13,25)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "200",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "205": {
+        "coordinates": "(6,16)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "162",
+                2
+            ],
+            "w": [
+                "254",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "206": {
+        "coordinates": "(15,9)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "201",
+                4
+            ],
+            "s": [
+                "232",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "207": {
+        "coordinates": "(7,20)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "168",
+                3
+            ],
+            "w": [
+                "297",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "208": {
+        "coordinates": "(9,22)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "166",
+                5
+            ],
+            "n": [
+                "307",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "209": {
+        "coordinates": "(8,10)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "156",
+                5
+            ],
+            "w": [
+                "213",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "21": {
+        "coordinates": "(12,17)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "3",
+                5
+            ],
+            "w": [
+                "36",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "210": {
+        "coordinates": "(9,21)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "112",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "211": {
+        "coordinates": "(18,13)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "248",
+                3
+            ],
+            "w": [
+                "182",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "212": {
+        "coordinates": "(16,10)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "127",
+                1
+            ],
+            "s": [
+                "229",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "213": {
+        "coordinates": "(7,10)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "209",
+                3
+            ],
+            "s": [
+                "217",
+                4
+            ],
+            "w": [
+                "216",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "214": {
+        "coordinates": "(21,16)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "246",
+                5
+            ],
+            "w": [
+                "160",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "215": {
+        "coordinates": "(6,11)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "177",
+                1
+            ],
+            "n": [
+                "243",
+                4
+            ],
+            "w": [
+                "220",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "216": {
+        "coordinates": "(6,10)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "213",
+                5
+            ],
+            "w": [
+                "236",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "217": {
+        "coordinates": "(7,9)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "213",
+                4
+            ],
+            "w": [
+                "271",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "218": {
+        "coordinates": "(13,9)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "144",
+                1
+            ],
+            "s": [
+                "252",
+                1
+            ],
+            "w": [
+                "118",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "219": {
+        "coordinates": "(19,14)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "305",
+                2
+            ],
+            "n": [
+                "119",
+                4
+            ],
+            "s": [
+                "242",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "22": {
+        "coordinates": "(15,16)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "1",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "220": {
+        "coordinates": "(5,11)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "215",
+                1
+            ],
+            "n": [
+                "230",
+                5
+            ],
+            "w": [
+                "314",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "221": {
+        "coordinates": "(7,21)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "174",
+                4
+            ],
+            "n": [
+                "250",
+                3
+            ],
+            "w": [
+                "342",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "222": {
+        "coordinates": "(6,15)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "190",
+                1
+            ],
+            "w": [
+                "274",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "223": {
+        "coordinates": "(12,27)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "169",
+                5
+            ],
+            "n": [
+                "483",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "224": {
+        "coordinates": "(18,27)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "287",
+                2
+            ],
+            "w": [
+                "196",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "225": {
+        "coordinates": "(7,14)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "105",
+                4
+            ],
+            "w": [
+                "226",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "226": {
+        "coordinates": "(6,14)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "225",
+                1
+            ],
+            "s": [
+                "260",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "227": {
+        "coordinates": "(5,17)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "194",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "228": {
+        "coordinates": "(15,26)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "253",
+                2
+            ],
+            "w": [
+                "163",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "229": {
+        "coordinates": "(16,9)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "212",
+                5
+            ],
+            "s": [
+                "237",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "23": {
+        "coordinates": "(12,14)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "6",
+                2
+            ],
+            "s": [
+                "57",
+                3
+            ],
+            "w": [
+                "58",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "230": {
+        "coordinates": "(5,12)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "220",
+                5
+            ],
+            "w": [
+                "344",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "231": {
+        "coordinates": "(20,24)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "294",
+                3
+            ],
+            "n": [
+                "282",
+                2
+            ],
+            "w": [
+                "136",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "232": {
+        "coordinates": "(15,8)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "206",
+                4
+            ],
+            "s": [
+                "265",
+                4
+            ],
+            "w": [
+                "244",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "233": {
+        "coordinates": "(16,26)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "152",
+                2
+            ],
+            "n": [
+                "240",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "234": {
+        "coordinates": "(11,8)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "259",
+                3
+            ],
+            "n": [
+                "133",
+                4
+            ],
+            "s": [
+                "280",
+                3
+            ],
+            "w": [
+                "247",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "235": {
+        "coordinates": "(7,13)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "158",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "236": {
+        "coordinates": "(5,10)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "216",
+                2
+            ],
+            "s": [
+                "263",
+                4
+            ],
+            "w": [
+                "258",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "237": {
+        "coordinates": "(16,8)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "370",
+                1
+            ],
+            "n": [
+                "229",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "238": {
+        "coordinates": "(22,20)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "293",
+                5
+            ],
+            "n": [
+                "381",
+                5
+            ],
+            "w": [
+                "125",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "239": {
+        "coordinates": "(19,26)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "336",
+                4
+            ],
+            "n": [
+                "255",
+                5
+            ],
+            "w": [
+                "192",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "24": {
+        "coordinates": "(16,16)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "25",
+                2
+            ],
+            "n": [
+                "18",
+                5
+            ],
+            "s": [
+                "29",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "240": {
+        "coordinates": "(16,27)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "304",
+                2
+            ],
+            "s": [
+                "233",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "241": {
+        "coordinates": "(8,9)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "193",
+                2
+            ],
+            "s": [
+                "256",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "242": {
+        "coordinates": "(19,13)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "219",
+                4
+            ],
+            "s": [
+                "286",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "243": {
+        "coordinates": "(6,12)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "215",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "244": {
+        "coordinates": "(14,8)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "232",
+                3
+            ],
+            "s": [
+                "264",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "245": {
+        "coordinates": "(21,22)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "343",
+                1
+            ],
+            "s": [
+                "142",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "246": {
+        "coordinates": "(22,16)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "412",
+                5
+            ],
+            "n": [
+                "325",
+                4
+            ],
+            "w": [
+                "214",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "247": {
+        "coordinates": "(10,8)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "234",
+                5
+            ],
+            "s": [
+                "369",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "248": {
+        "coordinates": "(18,12)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "211",
+                3
+            ],
+            "s": [
+                "272",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "249": {
+        "coordinates": "(18,10)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "202",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "25": {
+        "coordinates": "(17,16)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "43",
+                4
+            ],
+            "w": [
+                "24",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "250": {
+        "coordinates": "(7,22)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "295",
+                1
+            ],
+            "s": [
+                "221",
+                3
+            ],
+            "w": [
+                "289",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "251": {
+        "coordinates": "(21,17)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "150",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "252": {
+        "coordinates": "(13,8)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "218",
+                1
+            ],
+            "s": [
+                "261",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "253": {
+        "coordinates": "(15,27)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "285",
+                1
+            ],
+            "s": [
+                "228",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "254": {
+        "coordinates": "(5,16)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "205",
+                4
+            ],
+            "w": [
+                "284",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "255": {
+        "coordinates": "(19,27)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "239",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "256": {
+        "coordinates": "(8,8)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "241",
+                2
+            ],
+            "s": [
+                "279",
+                5
+            ],
+            "w": [
+                "327",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "257": {
+        "coordinates": "(14,27)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "388",
+                3
+            ],
+            "s": [
+                "163",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "258": {
+        "coordinates": "(4,10)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "236",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "259": {
+        "coordinates": "(12,8)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "291",
+                3
+            ],
+            "w": [
+                "234",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "26": {
+        "coordinates": "(16,18)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "27",
+                5
+            ],
+            "w": [
+                "20",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "260": {
+        "coordinates": "(6,13)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "226",
+                3
+            ],
+            "w": [
+                "266",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "261": {
+        "coordinates": "(13,7)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "252",
+                4
+            ],
+            "s": [
+                "345",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "262": {
+        "coordinates": "(21,23)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "390",
+                2
+            ],
+            "w": [
+                "186",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "263": {
+        "coordinates": "(5,9)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "236",
+                4
+            ],
+            "s": [
+                "299",
+                1
+            ],
+            "w": [
+                "372",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "264": {
+        "coordinates": "(14,7)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "244",
+                2
+            ],
+            "s": [
+                "290",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "265": {
+        "coordinates": "(15,7)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "273",
+                3
+            ],
+            "n": [
+                "232",
+                4
+            ],
+            "s": [
+                "268",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "266": {
+        "coordinates": "(5,13)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "260",
+                1
+            ],
+            "n": [
+                "379",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "267": {
+        "coordinates": "(17,9)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "302",
+                5
+            ],
+            "n": [
+                "202",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "268": {
+        "coordinates": "(15,6)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "265",
+                5
+            ],
+            "s": [
+                "276",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "269": {
+        "coordinates": "(9,7)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "203",
+                5
+            ],
+            "s": [
+                "315",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "27": {
+        "coordinates": "(16,19)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "55",
+                5
+            ],
+            "s": [
+                "26",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "270": {
+        "coordinates": "(22,19)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "300",
+                3
+            ],
+            "w": [
+                "198",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "271": {
+        "coordinates": "(6,9)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "217",
+                4
+            ],
+            "s": [
+                "310",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "272": {
+        "coordinates": "(18,11)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "248",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "273": {
+        "coordinates": "(16,7)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "298",
+                2
+            ],
+            "s": [
+                "296",
+                4
+            ],
+            "w": [
+                "265",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "274": {
+        "coordinates": "(5,15)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "222",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "275": {
+        "coordinates": "(21,18)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "283",
+                2
+            ],
+            "w": [
+                "189",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "276": {
+        "coordinates": "(15,5)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "268",
+                5
+            ],
+            "s": [
+                "459",
+                2
+            ],
+            "w": [
+                "322",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "277": {
+        "coordinates": "(8,22)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "331",
+                4
+            ],
+            "s": [
+                "174",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "278": {
+        "coordinates": "(17,28)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "338",
+                1
+            ],
+            "s": [
+                "196",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "279": {
+        "coordinates": "(8,7)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "256",
+                5
+            ],
+            "s": [
+                "323",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "28": {
+        "coordinates": "(14,20)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "60",
+                4
+            ],
+            "s": [
+                "30",
+                2
+            ],
+            "w": [
+                "17",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "280": {
+        "coordinates": "(11,7)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "234",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "281": {
+        "coordinates": "(11,27)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "350",
+                3
+            ],
+            "s": [
+                "199",
+                3
+            ],
+            "w": [
+                "392",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "282": {
+        "coordinates": "(20,25)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "231",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "283": {
+        "coordinates": "(22,18)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "376",
+                3
+            ],
+            "w": [
+                "275",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "284": {
+        "coordinates": "(4,16)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "254",
+                2
+            ],
+            "n": [
+                "470",
+                5
+            ],
+            "s": [
+                "349",
+                4
+            ],
+            "w": [
+                "368",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "285": {
+        "coordinates": "(15,28)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "253",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "286": {
+        "coordinates": "(19,12)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "288",
+                4
+            ],
+            "n": [
+                "242",
+                3
+            ],
+            "s": [
+                "309",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "287": {
+        "coordinates": "(18,28)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "353",
+                5
+            ],
+            "n": [
+                "313",
+                2
+            ],
+            "s": [
+                "224",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "288": {
+        "coordinates": "(20,12)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "498",
+                4
+            ],
+            "n": [
+                "326",
+                3
+            ],
+            "w": [
+                "286",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "289": {
+        "coordinates": "(6,22)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "250",
+                3
+            ],
+            "n": [
+                "319",
+                1
+            ],
+            "w": [
+                "324",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "29": {
+        "coordinates": "(16,15)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "24",
+                1
+            ],
+            "s": [
+                "54",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "290": {
+        "coordinates": "(14,6)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "264",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "291": {
+        "coordinates": "(12,7)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "259",
+                3
+            ],
+            "s": [
+                "306",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "292": {
+        "coordinates": "(10,23)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "185",
+                3
+            ],
+            "n": [
+                "316",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "293": {
+        "coordinates": "(23,20)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "238",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "294": {
+        "coordinates": "(21,24)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "311",
+                1
+            ],
+            "n": [
+                "363",
+                2
+            ],
+            "w": [
+                "231",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "295": {
+        "coordinates": "(7,23)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "332",
+                3
+            ],
+            "s": [
+                "250",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "296": {
+        "coordinates": "(16,6)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "308",
+                5
+            ],
+            "n": [
+                "273",
+                4
+            ],
+            "s": [
+                "382",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "297": {
+        "coordinates": "(6,20)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "207",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "298": {
+        "coordinates": "(17,7)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "360",
+                4
+            ],
+            "w": [
+                "273",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "299": {
+        "coordinates": "(5,8)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "263",
+                1
+            ],
+            "s": [
+                "356",
+                5
+            ],
+            "w": [
+                "312",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "3": {
+        "coordinates": "(12,16)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "0",
+                5
+            ],
+            "n": [
+                "21",
+                5
+            ],
+            "w": [
+                "11",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "30": {
+        "coordinates": "(14,19)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "28",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "300": {
+        "coordinates": "(23,19)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "320",
+                1
+            ],
+            "w": [
+                "270",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "301": {
+        "exits": {
+            "e": [
+                "187",
+                5
+            ]
+        },
+        "title": "A misty room"
+    },
+    "302": {
+        "coordinates": "(18,9)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "402",
+                1
+            ],
+            "w": [
+                "267",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "303": {
+        "coordinates": "(5,19)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "352",
+                5
+            ],
+            "s": [
+                "187",
+                1
+            ],
+            "w": [
+                "333",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "304": {
+        "coordinates": "(16,28)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "321",
+                1
+            ],
+            "s": [
+                "240",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "305": {
+        "coordinates": "(20,14)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "330",
+                4
+            ],
+            "w": [
+                "219",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "306": {
+        "coordinates": "(12,6)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "291",
+                3
+            ],
+            "s": [
+                "415",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "307": {
+        "coordinates": "(9,23)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "208",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "308": {
+        "coordinates": "(17,6)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "337",
+                5
+            ],
+            "s": [
+                "317",
+                5
+            ],
+            "w": [
+                "296",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "309": {
+        "coordinates": "(19,11)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "377",
+                2
+            ],
+            "n": [
+                "286",
+                3
+            ],
+            "s": [
+                "371",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "31": {
+        "coordinates": "(15,19)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "37",
+                4
+            ],
+            "s": [
+                "20",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "310": {
+        "coordinates": "(6,8)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "271",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "311": {
+        "coordinates": "(22,24)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "499",
+                3
+            ],
+            "n": [
+                "389",
+                4
+            ],
+            "w": [
+                "294",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "312": {
+        "coordinates": "(4,8)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "299",
+                4
+            ],
+            "s": [
+                "347",
+                3
+            ],
+            "w": [
+                "355",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "313": {
+        "coordinates": "(18,29)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "287",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "314": {
+        "coordinates": "(4,11)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "220",
+                4
+            ],
+            "w": [
+                "339",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "315": {
+        "coordinates": "(9,6)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "335",
+                4
+            ],
+            "n": [
+                "269",
+                2
+            ],
+            "s": [
+                "406",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "316": {
+        "coordinates": "(10,24)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "292",
+                3
+            ],
+            "w": [
+                "341",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "317": {
+        "coordinates": "(17,5)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "308",
+                5
+            ],
+            "s": [
+                "416",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "318": {
+        "coordinates": "(10,26)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "199",
+                3
+            ],
+            "s": [
+                "340",
+                5
+            ],
+            "w": [
+                "394",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "319": {
+        "coordinates": "(6,23)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "441",
+                5
+            ],
+            "s": [
+                "289",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "32": {
+        "coordinates": "(11,19)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "19",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "320": {
+        "coordinates": "(24,19)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "471",
+                1
+            ],
+            "w": [
+                "300",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "321": {
+        "coordinates": "(16,29)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "334",
+                5
+            ],
+            "s": [
+                "304",
+                1
+            ],
+            "w": [
+                "354",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "322": {
+        "coordinates": "(14,5)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "276",
+                3
+            ],
+            "s": [
+                "424",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "323": {
+        "coordinates": "(8,6)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "279",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "324": {
+        "coordinates": "(5,22)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "289",
+                4
+            ],
+            "n": [
+                "391",
+                5
+            ],
+            "w": [
+                "411",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "325": {
+        "coordinates": "(22,17)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "246",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "326": {
+        "coordinates": "(20,13)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "288",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "327": {
+        "coordinates": "(7,8)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "256",
+                5
+            ],
+            "s": [
+                "362",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "328": {
+        "coordinates": "(11,25)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "200",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "329": {
+        "coordinates": "(21,15)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "407",
+                5
+            ],
+            "w": [
+                "131",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "33": {
+        "coordinates": "(13,21)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "17",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "330": {
+        "coordinates": "(21,14)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "454",
+                2
+            ],
+            "s": [
+                "348",
+                2
+            ],
+            "w": [
+                "305",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "331": {
+        "coordinates": "(8,23)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "387",
+                1
+            ],
+            "s": [
+                "277",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "332": {
+        "coordinates": "(7,24)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "351",
+                4
+            ],
+            "s": [
+                "295",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "333": {
+        "coordinates": "(4,19)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "303",
+                1
+            ],
+            "n": [
+                "358",
+                5
+            ],
+            "w": [
+                "365",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "334": {
+        "coordinates": "(16,30)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "384",
+                3
+            ],
+            "s": [
+                "321",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "335": {
+        "coordinates": "(10,6)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "378",
+                4
+            ],
+            "s": [
+                "346",
+                3
+            ],
+            "w": [
+                "315",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "336": {
+        "coordinates": "(20,26)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "421",
+                2
+            ],
+            "n": [
+                "373",
+                2
+            ],
+            "w": [
+                "239",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "337": {
+        "coordinates": "(18,6)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "383",
+                1
+            ],
+            "w": [
+                "308",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "338": {
+        "coordinates": "(17,29)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "278",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "339": {
+        "coordinates": "(3,11)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "314",
+                2
+            ],
+            "s": [
+                "404",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "34": {
+        "coordinates": "(17,17)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "39",
+                2
+            ],
+            "n": [
+                "35",
+                2
+            ],
+            "w": [
+                "18",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "340": {
+        "coordinates": "(10,25)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "318",
+                5
+            ],
+            "w": [
+                "374",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "341": {
+        "coordinates": "(9,24)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "316",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "342": {
+        "coordinates": "(6,21)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "221",
+                2
+            ],
+            "w": [
+                "357",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "343": {
+        "coordinates": "(22,22)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "245",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "344": {
+        "coordinates": "(4,12)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "230",
+                5
+            ],
+            "n": [
+                "359",
+                5
+            ],
+            "w": [
+                "367",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "345": {
+        "coordinates": "(13,6)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "261",
+                4
+            ],
+            "s": [
+                "409",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "346": {
+        "coordinates": "(10,5)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "335",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "347": {
+        "coordinates": "(4,7)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "312",
+                3
+            ],
+            "s": [
+                "375",
+                2
+            ],
+            "w": [
+                "437",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "348": {
+        "coordinates": "(21,13)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "330",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "349": {
+        "coordinates": "(4,15)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "284",
+                4
+            ],
+            "w": [
+                "418",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "35": {
+        "coordinates": "(17,18)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "44",
+                4
+            ],
+            "s": [
+                "34",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "350": {
+        "coordinates": "(11,28)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "425",
+                3
+            ],
+            "s": [
+                "281",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "351": {
+        "coordinates": "(7,25)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "417",
+                4
+            ],
+            "s": [
+                "332",
+                4
+            ],
+            "w": [
+                "453",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "352": {
+        "coordinates": "(5,20)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "303",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "353": {
+        "coordinates": "(19,28)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "380",
+                2
+            ],
+            "w": [
+                "287",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "354": {
+        "coordinates": "(15,29)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "321",
+                1
+            ],
+            "n": [
+                "361",
+                5
+            ],
+            "w": [
+                "386",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "355": {
+        "coordinates": "(3,8)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "312",
+                2
+            ],
+            "w": [
+                "457",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "356": {
+        "coordinates": "(5,7)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "299",
+                5
+            ],
+            "s": [
+                "405",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "357": {
+        "coordinates": "(5,21)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "342",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "358": {
+        "coordinates": "(4,20)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "397",
+                1
+            ],
+            "s": [
+                "333",
+                5
+            ],
+            "w": [
+                "399",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "359": {
+        "coordinates": "(4,13)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "458",
+                5
+            ],
+            "s": [
+                "344",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "36": {
+        "coordinates": "(11,17)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "21",
+                4
+            ],
+            "w": [
+                "41",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "360": {
+        "coordinates": "(18,7)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "364",
+                2
+            ],
+            "w": [
+                "298",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "361": {
+        "coordinates": "(15,30)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "354",
+                5
+            ],
+            "w": [
+                "366",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "362": {
+        "coordinates": "(7,7)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "327",
+                3
+            ],
+            "s": [
+                "395",
+                5
+            ],
+            "w": [
+                "469",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "363": {
+        "coordinates": "(21,25)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "294",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "364": {
+        "coordinates": "(18,8)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "401",
+                1
+            ],
+            "s": [
+                "360",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "365": {
+        "coordinates": "(3,19)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "333",
+                3
+            ],
+            "s": [
+                "447",
+                3
+            ],
+            "w": [
+                "414",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "366": {
+        "coordinates": "(14,30)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "361",
+                4
+            ],
+            "w": [
+                "497",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "367": {
+        "coordinates": "(3,12)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "344",
+                4
+            ],
+            "n": [
+                "462",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "368": {
+        "coordinates": "(3,16)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "284",
+                3
+            ],
+            "n": [
+                "436",
+                5
+            ],
+            "w": [
+                "465",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "369": {
+        "coordinates": "(10,7)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "247",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "37": {
+        "coordinates": "(15,20)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "42",
+                2
+            ],
+            "n": [
+                "91",
+                2
+            ],
+            "s": [
+                "31",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "370": {
+        "coordinates": "(17,8)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "237",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "371": {
+        "coordinates": "(19,10)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "430",
+                3
+            ],
+            "n": [
+                "309",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "372": {
+        "coordinates": "(4,9)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "263",
+                1
+            ],
+            "w": [
+                "433",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "373": {
+        "coordinates": "(20,27)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "336",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "374": {
+        "coordinates": "(9,25)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "340",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "375": {
+        "coordinates": "(4,6)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "347",
+                2
+            ],
+            "s": [
+                "413",
+                4
+            ],
+            "w": [
+                "393",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "376": {
+        "coordinates": "(23,18)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "468",
+                2
+            ],
+            "w": [
+                "283",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "377": {
+        "coordinates": "(20,11)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "456",
+                1
+            ],
+            "w": [
+                "309",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "378": {
+        "coordinates": "(11,6)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "466",
+                2
+            ],
+            "w": [
+                "335",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "379": {
+        "coordinates": "(5,14)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "266",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "38": {
+        "coordinates": "(15,14)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "10",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "380": {
+        "coordinates": "(19,29)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "445",
+                4
+            ],
+            "n": [
+                "476",
+                3
+            ],
+            "s": [
+                "353",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "381": {
+        "coordinates": "(22,21)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "431",
+                5
+            ],
+            "s": [
+                "238",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "382": {
+        "coordinates": "(16,5)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "296",
+                1
+            ],
+            "s": [
+                "455",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "383": {
+        "coordinates": "(18,5)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "337",
+                1
+            ],
+            "s": [
+                "460",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "384": {
+        "coordinates": "(17,30)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "435",
+                4
+            ],
+            "w": [
+                "334",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "385": {
+        "coordinates": "(13,28)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "169",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "386": {
+        "coordinates": "(14,29)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "354",
+                1
+            ],
+            "s": [
+                "388",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "387": {
+        "coordinates": "(8,24)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "444",
+                2
+            ],
+            "s": [
+                "331",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "388": {
+        "coordinates": "(14,28)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "386",
+                2
+            ],
+            "s": [
+                "257",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "389": {
+        "coordinates": "(22,25)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "311",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "39": {
+        "coordinates": "(18,17)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "71",
+                5
+            ],
+            "s": [
+                "52",
+                5
+            ],
+            "w": [
+                "34",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "390": {
+        "coordinates": "(22,23)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "398",
+                4
+            ],
+            "w": [
+                "262",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "391": {
+        "coordinates": "(5,23)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "489",
+                1
+            ],
+            "s": [
+                "324",
+                5
+            ],
+            "w": [
+                "396",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "392": {
+        "coordinates": "(10,27)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "281",
+                4
+            ],
+            "n": [
+                "408",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "393": {
+        "coordinates": "(3,6)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "375",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "394": {
+        "coordinates": "(9,26)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "318",
+                2
+            ],
+            "n": [
+                "426",
+                5
+            ],
+            "w": [
+                "422",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "395": {
+        "coordinates": "(7,6)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "362",
+                5
+            ],
+            "w": [
+                "423",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "396": {
+        "coordinates": "(4,23)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "391",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "397": {
+        "coordinates": "(4,21)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "358",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "398": {
+        "coordinates": "(23,23)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "487",
+                2
+            ],
+            "w": [
+                "390",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "399": {
+        "coordinates": "(3,20)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "358",
+                3
+            ],
+            "w": [
+                "400",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "4": {
+        "coordinates": "(13,17)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "0",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "40": {
+        "coordinates": "(10,18)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "19",
+                2
+            ],
+            "n": [
+                "74",
+                2
+            ],
+            "w": [
+                "45",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "400": {
+        "coordinates": "(2,20)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "399",
+                5
+            ],
+            "w": [
+                "492",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "401": {
+        "coordinates": "(19,8)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "427",
+                5
+            ],
+            "s": [
+                "420",
+                5
+            ],
+            "w": [
+                "364",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "402": {
+        "coordinates": "(19,9)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "403",
+                4
+            ],
+            "w": [
+                "302",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "403": {
+        "coordinates": "(20,9)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "439",
+                2
+            ],
+            "w": [
+                "402",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "404": {
+        "coordinates": "(3,10)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "339",
+                3
+            ],
+            "w": [
+                "482",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "405": {
+        "coordinates": "(5,6)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "356",
+                3
+            ],
+            "s": [
+                "432",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "406": {
+        "coordinates": "(9,5)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "315",
+                5
+            ],
+            "w": [
+                "410",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "407": {
+        "coordinates": "(22,15)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "329",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "408": {
+        "coordinates": "(10,28)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "443",
+                3
+            ],
+            "s": [
+                "392",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "409": {
+        "coordinates": "(13,5)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "345",
+                5
+            ],
+            "s": [
+                "488",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "41": {
+        "coordinates": "(10,17)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "36",
+                5
+            ],
+            "s": [
+                "76",
+                1
+            ],
+            "w": [
+                "69",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "410": {
+        "coordinates": "(8,5)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "406",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "411": {
+        "coordinates": "(4,22)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "324",
+                1
+            ],
+            "w": [
+                "428",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "412": {
+        "coordinates": "(23,16)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "246",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "413": {
+        "coordinates": "(4,5)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "375",
+                4
+            ],
+            "s": [
+                "419",
+                2
+            ],
+            "w": [
+                "478",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "414": {
+        "coordinates": "(2,19)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "365",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "415": {
+        "coordinates": "(12,5)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "306",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "416": {
+        "coordinates": "(17,4)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "317",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "417": {
+        "coordinates": "(7,26)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "442",
+                2
+            ],
+            "s": [
+                "351",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "418": {
+        "coordinates": "(3,15)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "349",
+                4
+            ],
+            "s": [
+                "463",
+                1
+            ],
+            "w": [
+                "479",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "419": {
+        "coordinates": "(4,4)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "413",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "42": {
+        "coordinates": "(16,20)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "51",
+                2
+            ],
+            "w": [
+                "37",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "420": {
+        "coordinates": "(19,7)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "401",
+                5
+            ],
+            "s": [
+                "464",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "421": {
+        "coordinates": "(21,26)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "336",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "422": {
+        "coordinates": "(8,26)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "394",
+                3
+            ],
+            "n": [
+                "461",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "423": {
+        "coordinates": "(6,6)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "395",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "424": {
+        "coordinates": "(14,4)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "322",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "425": {
+        "coordinates": "(11,29)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "434",
+                3
+            ],
+            "s": [
+                "350",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "426": {
+        "coordinates": "(9,27)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "394",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "427": {
+        "coordinates": "(20,8)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "474",
+                2
+            ],
+            "s": [
+                "438",
+                3
+            ],
+            "w": [
+                "401",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "428": {
+        "coordinates": "(3,22)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "411",
+                5
+            ],
+            "s": [
+                "429",
+                1
+            ],
+            "w": [
+                "452",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "429": {
+        "coordinates": "(3,21)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "428",
+                1
+            ],
+            "w": [
+                "451",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "43": {
+        "coordinates": "(17,15)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "49",
+                2
+            ],
+            "n": [
+                "25",
+                4
+            ],
+            "s": [
+                "77",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "430": {
+        "coordinates": "(20,10)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "440",
+                1
+            ],
+            "w": [
+                "371",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "431": {
+        "coordinates": "(23,21)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "381",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "432": {
+        "coordinates": "(5,5)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "473",
+                1
+            ],
+            "n": [
+                "405",
+                5
+            ],
+            "s": [
+                "449",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "433": {
+        "coordinates": "(3,9)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "372",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "434": {
+        "coordinates": "(11,30)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "425",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "435": {
+        "coordinates": "(18,30)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "384",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "436": {
+        "coordinates": "(3,17)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "368",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "437": {
+        "coordinates": "(3,7)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "347",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "438": {
+        "coordinates": "(20,7)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "427",
+                3
+            ],
+            "s": [
+                "448",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "439": {
+        "coordinates": "(21,9)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "403",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "44": {
+        "coordinates": "(18,18)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "59",
+                3
+            ],
+            "n": [
+                "48",
+                4
+            ],
+            "w": [
+                "35",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "440": {
+        "coordinates": "(21,10)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "430",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "441": {
+        "coordinates": "(6,24)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "319",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "442": {
+        "coordinates": "(7,27)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "417",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "443": {
+        "coordinates": "(10,29)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "408",
+                3
+            ],
+            "w": [
+                "477",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "444": {
+        "coordinates": "(8,25)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "387",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "445": {
+        "coordinates": "(20,29)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "446",
+                2
+            ],
+            "s": [
+                "480",
+                3
+            ],
+            "w": [
+                "380",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "446": {
+        "coordinates": "(21,29)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "445",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "447": {
+        "coordinates": "(3,18)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "365",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "448": {
+        "coordinates": "(20,6)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "490",
+                5
+            ],
+            "n": [
+                "438",
+                5
+            ],
+            "s": [
+                "475",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "449": {
+        "coordinates": "(5,4)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "450",
+                2
+            ],
+            "n": [
+                "432",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "45": {
+        "coordinates": "(9,18)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "40",
+                3
+            ],
+            "n": [
+                "85",
+                1
+            ],
+            "w": [
+                "81",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "450": {
+        "coordinates": "(6,4)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "449",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "451": {
+        "coordinates": "(2,21)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "429",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "452": {
+        "coordinates": "(2,22)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "428",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "453": {
+        "coordinates": "(6,25)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "351",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "454": {
+        "coordinates": "(22,14)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "330",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "455": {
+        "coordinates": "(16,4)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "382",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "456": {
+        "coordinates": "(21,11)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "377",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "457": {
+        "coordinates": "(2,8)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "355",
+                2
+            ],
+            "w": [
+                "494",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "458": {
+        "coordinates": "(4,14)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "359",
+                5
+            ],
+            "w": [
+                "463",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "459": {
+        "coordinates": "(15,4)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "276",
+                2
+            ],
+            "s": [
+                "467",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "46": {
+        "coordinates": "(12,20)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "17",
+                3
+            ],
+            "n": [
+                "61",
+                5
+            ],
+            "w": [
+                "79",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "460": {
+        "coordinates": "(18,4)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "383",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "461": {
+        "coordinates": "(8,27)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "422",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "462": {
+        "coordinates": "(3,13)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "367",
+                2
+            ],
+            "w": [
+                "486",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "463": {
+        "coordinates": "(3,14)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "458",
+                5
+            ],
+            "n": [
+                "418",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "464": {
+        "coordinates": "(19,6)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "420",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "465": {
+        "coordinates": "(2,16)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "368",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "466": {
+        "coordinates": "(11,5)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "378",
+                2
+            ],
+            "s": [
+                "472",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "467": {
+        "coordinates": "(15,3)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "459",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "468": {
+        "coordinates": "(23,17)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "376",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "469": {
+        "coordinates": "(6,7)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "362",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "47": {
+        "coordinates": "(12,19)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "14",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "470": {
+        "coordinates": "(4,17)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "284",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "471": {
+        "coordinates": "(24,18)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "320",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "472": {
+        "coordinates": "(11,4)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "495",
+                4
+            ],
+            "n": [
+                "466",
+                2
+            ],
+            "s": [
+                "481",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "473": {
+        "coordinates": "(6,5)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "432",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "474": {
+        "coordinates": "(21,8)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "427",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "475": {
+        "coordinates": "(20,5)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "448",
+                3
+            ],
+            "s": [
+                "496",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "476": {
+        "coordinates": "(19,30)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "380",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "477": {
+        "coordinates": "(9,29)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "443",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "478": {
+        "coordinates": "(3,5)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "413",
+                2
+            ],
+            "w": [
+                "493",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "479": {
+        "coordinates": "(2,15)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "418",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "48": {
+        "coordinates": "(18,19)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "53",
+                2
+            ],
+            "s": [
+                "44",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "480": {
+        "coordinates": "(20,28)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "445",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "481": {
+        "coordinates": "(11,3)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "472",
+                1
+            ],
+            "w": [
+                "485",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "482": {
+        "coordinates": "(2,10)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "404",
+                2
+            ],
+            "s": [
+                "484",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "483": {
+        "coordinates": "(12,28)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "223",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "484": {
+        "coordinates": "(2,9)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "482",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "485": {
+        "coordinates": "(10,3)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "481",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "486": {
+        "coordinates": "(2,13)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "462",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "487": {
+        "coordinates": "(23,22)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "398",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "488": {
+        "coordinates": "(13,4)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "409",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "489": {
+        "coordinates": "(5,24)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "491",
+                5
+            ],
+            "s": [
+                "391",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "49": {
+        "coordinates": "(18,15)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "119",
+                5
+            ],
+            "w": [
+                "43",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "490": {
+        "coordinates": "(21,6)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "448",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "491": {
+        "coordinates": "(5,25)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "489",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "492": {
+        "coordinates": "(1,20)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "400",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "493": {
+        "coordinates": "(2,5)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "478",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "494": {
+        "coordinates": "(1,8)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "457",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "495": {
+        "coordinates": "(12,4)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "472",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "496": {
+        "coordinates": "(20,4)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "475",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "497": {
+        "coordinates": "(13,30)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "366",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "498": {
+        "coordinates": "(21,12)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "288",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "499": {
+        "coordinates": "(23,24)",
+        "elevation": 0,
+        "exits": {
+            "w": [
+                "311",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "5": {
+        "coordinates": "(14,14)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "2",
+                3
+            ],
+            "s": [
+                "50",
+                5
+            ],
+            "w": [
+                "6",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "50": {
+        "coordinates": "(14,13)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "70",
+                4
+            ],
+            "n": [
+                "5",
+                5
+            ],
+            "s": [
+                "66",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "51": {
+        "coordinates": "(16,21)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "93",
+                4
+            ],
+            "s": [
+                "42",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "52": {
+        "coordinates": "(18,16)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "39",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "53": {
+        "coordinates": "(19,19)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "75",
+                5
+            ],
+            "w": [
+                "48",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "54": {
+        "coordinates": "(16,14)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "29",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "55": {
+        "coordinates": "(17,19)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "56",
+                4
+            ],
+            "w": [
+                "27",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "56": {
+        "coordinates": "(17,20)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "67",
+                1
+            ],
+            "n": [
+                "73",
+                2
+            ],
+            "s": [
+                "55",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "57": {
+        "coordinates": "(12,13)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "23",
+                3
+            ],
+            "s": [
+                "94",
+                4
+            ],
+            "w": [
+                "68",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "58": {
+        "coordinates": "(11,14)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "23",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "59": {
+        "coordinates": "(19,18)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "189",
+                1
+            ],
+            "w": [
+                "44",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "6": {
+        "coordinates": "(13,14)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "5",
+                3
+            ],
+            "s": [
+                "62",
+                2
+            ],
+            "w": [
+                "23",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "60": {
+        "coordinates": "(14,21)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "64",
+                1
+            ],
+            "s": [
+                "28",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "61": {
+        "coordinates": "(12,21)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "82",
+                3
+            ],
+            "s": [
+                "46",
+                5
+            ],
+            "w": [
+                "63",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "62": {
+        "coordinates": "(13,13)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "6",
+                2
+            ],
+            "s": [
+                "65",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "63": {
+        "coordinates": "(11,21)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "61",
+                4
+            ],
+            "n": [
+                "140",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "64": {
+        "coordinates": "(14,22)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "111",
+                3
+            ],
+            "s": [
+                "60",
+                1
+            ],
+            "w": [
+                "102",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "65": {
+        "coordinates": "(13,12)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "62",
+                5
+            ],
+            "s": [
+                "134",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "66": {
+        "coordinates": "(14,12)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "50",
+                5
+            ],
+            "s": [
+                "96",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "67": {
+        "coordinates": "(18,20)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "84",
+                4
+            ],
+            "w": [
+                "56",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "68": {
+        "coordinates": "(11,13)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "57",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "69": {
+        "coordinates": "(9,17)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "41",
+                4
+            ],
+            "s": [
+                "72",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "7": {
+        "coordinates": "(14,17)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "12",
+                2
+            ],
+            "n": [
+                "9",
+                2
+            ],
+            "s": [
+                "1",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "70": {
+        "coordinates": "(15,13)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "87",
+                1
+            ],
+            "s": [
+                "116",
+                3
+            ],
+            "w": [
+                "50",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "71": {
+        "coordinates": "(19,17)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "150",
+                2
+            ],
+            "s": [
+                "115",
+                5
+            ],
+            "w": [
+                "39",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "72": {
+        "coordinates": "(9,16)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "69",
+                2
+            ],
+            "s": [
+                "89",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "73": {
+        "coordinates": "(17,21)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "132",
+                3
+            ],
+            "s": [
+                "56",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "74": {
+        "coordinates": "(10,19)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "40",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "75": {
+        "coordinates": "(19,20)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "88",
+                5
+            ],
+            "n": [
+                "78",
+                1
+            ],
+            "s": [
+                "53",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "76": {
+        "coordinates": "(10,16)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "41",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "77": {
+        "coordinates": "(17,14)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "130",
+                3
+            ],
+            "n": [
+                "43",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "78": {
+        "coordinates": "(19,21)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "90",
+                4
+            ],
+            "s": [
+                "75",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "79": {
+        "coordinates": "(11,20)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "46",
+                3
+            ],
+            "w": [
+                "106",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "8": {
+        "coordinates": "(13,15)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "0",
+                1
+            ],
+            "w": [
+                "16",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "80": {
+        "coordinates": "(11,15)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "11",
+                2
+            ],
+            "w": [
+                "83",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "81": {
+        "coordinates": "(8,18)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "45",
+                1
+            ],
+            "n": [
+                "137",
+                4
+            ],
+            "s": [
+                "92",
+                5
+            ],
+            "w": [
+                "108",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "82": {
+        "coordinates": "(12,22)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "155",
+                1
+            ],
+            "s": [
+                "61",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "83": {
+        "coordinates": "(10,15)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "80",
+                4
+            ],
+            "s": [
+                "99",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "84": {
+        "coordinates": "(18,21)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "86",
+                3
+            ],
+            "s": [
+                "67",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "85": {
+        "coordinates": "(9,19)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "45",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "86": {
+        "coordinates": "(18,22)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "95",
+                3
+            ],
+            "n": [
+                "146",
+                5
+            ],
+            "s": [
+                "84",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "87": {
+        "coordinates": "(16,13)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "117",
+                4
+            ],
+            "w": [
+                "70",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "88": {
+        "coordinates": "(20,20)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "125",
+                2
+            ],
+            "s": [
+                "103",
+                2
+            ],
+            "w": [
+                "75",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "89": {
+        "coordinates": "(9,15)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "72",
+                1
+            ],
+            "s": [
+                "104",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "9": {
+        "coordinates": "(14,18)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "7",
+                2
+            ],
+            "w": [
+                "13",
+                5
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "90": {
+        "coordinates": "(20,21)",
+        "elevation": 0,
+        "exits": {
+            "e": [
+                "142",
+                4
+            ],
+            "n": [
+                "98",
+                1
+            ],
+            "w": [
+                "78",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "91": {
+        "coordinates": "(15,21)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "101",
+                4
+            ],
+            "s": [
+                "37",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "92": {
+        "coordinates": "(8,17)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "81",
+                5
+            ],
+            "s": [
+                "100",
+                1
+            ],
+            "w": [
+                "128",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "93": {
+        "coordinates": "(16,22)",
+        "elevation": 0,
+        "exits": {
+            "s": [
+                "51",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "94": {
+        "coordinates": "(12,12)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "57",
+                4
+            ],
+            "s": [
+                "97",
+                1
+            ],
+            "w": [
+                "113",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "95": {
+        "coordinates": "(19,22)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "109",
+                4
+            ],
+            "w": [
+                "86",
+                3
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "96": {
+        "coordinates": "(14,11)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "66",
+                4
+            ],
+            "s": [
+                "179",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "97": {
+        "coordinates": "(12,11)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "94",
+                1
+            ],
+            "s": [
+                "110",
+                5
+            ],
+            "w": [
+                "153",
+                2
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "98": {
+        "coordinates": "(20,22)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "186",
+                4
+            ],
+            "s": [
+                "90",
+                1
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    },
+    "99": {
+        "coordinates": "(10,14)",
+        "elevation": 0,
+        "exits": {
+            "n": [
+                "83",
+                2
+            ],
+            "s": [
+                "122",
+                4
+            ]
+        },
+        "terrain": "NORMAL",
+        "title": "A misty room"
+    }
+}
